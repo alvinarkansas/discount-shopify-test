@@ -1,0 +1,458 @@
+{
+  "price_rules": [
+    {
+      "id": 1156651057374,
+      "value_type": "fixed_amount",
+      "value": "-20000.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": true,
+      "usage_limit": 1,
+      "starts_at": "2021-12-27T09:59:28+07:00",
+      "ends_at": null,
+      "created_at": "2021-12-27T10:01:00+07:00",
+      "updated_at": "2021-12-27T11:15:02+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": [
+        "Object"
+      ],
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "Backup Belanjarutin x TSEL POIN 2021",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/1156651057374"
+    },
+    {
+      "id": 1150328897758,
+      "value_type": "fixed_amount",
+      "value": "-20000.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": true,
+      "usage_limit": 1,
+      "starts_at": "2021-11-25T09:01:42+07:00",
+      "ends_at": "2022-01-31T23:59:59+07:00",
+      "created_at": "2021-11-25T09:03:10+07:00",
+      "updated_at": "2021-12-28T07:40:02+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": [
+        "Object"
+      ],
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "Belanjarutin x TSEL POIN 2021",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/1150328897758"
+    },
+    {
+      "id": 1148892709086,
+      "value_type": "fixed_amount",
+      "value": "-350000.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-11-16T13:26:15+07:00",
+      "ends_at": "2021-11-25T09:44:22+07:00",
+      "created_at": "2021-11-16T13:27:16+07:00",
+      "updated_at": "2021-11-25T09:44:22+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": null,
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "Belanjarutin Giveaway November 2021",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/1148892709086"
+    },
+    {
+      "id": 1124310647006,
+      "value_type": "fixed_amount",
+      "value": "-20000.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "entitled",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": true,
+      "usage_limit": 1,
+      "starts_at": "2021-10-18T15:30:29+07:00",
+      "ends_at": "2022-12-31T23:59:59+07:00",
+      "created_at": "2021-10-18T15:38:36+07:00",
+      "updated_at": "2021-12-13T09:14:03+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [
+        "Array"
+      ],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": [
+        "Object"
+      ],
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "BELANJARUTINGRES",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/1124310647006"
+    },
+    {
+      "id": 979717324965,
+      "value_type": "percentage",
+      "value": "-100.0",
+      "customer_selection": "prerequisite",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-09-20T09:25:04+07:00",
+      "ends_at": "2021-09-24T09:25:25+07:00",
+      "created_at": "2021-09-20T09:26:27+07:00",
+      "updated_at": "2021-09-24T22:51:53+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [
+        "Array"
+      ],
+      "prerequisite_subtotal_range": null,
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "FREEPAYMENT4DEVONLY",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/979717324965"
+    },
+    {
+      "id": 945802674341,
+      "value_type": "percentage",
+      "value": "-2.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-07-01T09:18:41+07:00",
+      "ends_at": null,
+      "created_at": "2021-07-01T09:19:32+07:00",
+      "updated_at": "2021-12-30T17:50:02+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": null,
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "Digiresto Sales Field Promo [Update July 2020]",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/945802674341"
+    },
+    {
+      "id": 945801920677,
+      "value_type": "percentage",
+      "value": "-2.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-07-01T09:14:37+07:00",
+      "ends_at": null,
+      "created_at": "2021-07-01T09:15:10+07:00",
+      "updated_at": "2021-07-01T09:15:10+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": null,
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "Field Sales Digiresto Promo",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/945801920677"
+    },
+    {
+      "id": 935851196581,
+      "value_type": "fixed_amount",
+      "value": "-20000.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "entitled",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": true,
+      "usage_limit": 1000,
+      "starts_at": "2021-09-25T00:00:00+07:00",
+      "ends_at": "2021-10-25T23:59:59+07:00",
+      "created_at": "2021-05-24T14:46:27+07:00",
+      "updated_at": "2021-10-26T00:00:00+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [
+        "Array"
+      ],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": [
+        "Object"
+      ],
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "NEWBELANJARUTIN20",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/935851196581"
+    },
+    {
+      "id": 935851163813,
+      "value_type": "fixed_amount",
+      "value": "-5000.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "entitled",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": true,
+      "usage_limit": 1000,
+      "starts_at": "2021-09-25T00:00:00+07:00",
+      "ends_at": "2021-10-25T23:59:29+07:00",
+      "created_at": "2021-05-24T14:45:20+07:00",
+      "updated_at": "2021-10-25T16:40:01+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [
+        "Array"
+      ],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": [
+        "Object"
+      ],
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "NEWBELANJARUTIN10",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/935851163813"
+    },
+    {
+      "id": 931611443365,
+      "value_type": "percentage",
+      "value": "-2.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-05-06T08:46:57+07:00",
+      "ends_at": null,
+      "created_at": "2021-05-06T08:47:29+07:00",
+      "updated_at": "2021-07-01T09:10:02+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": null,
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "Field Sales Digiresto Promo",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/931611443365"
+    },
+    {
+      "id": 930950152357,
+      "value_type": "percentage",
+      "value": "-20.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "entitled",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-05-04T09:26:47+07:00",
+      "ends_at": "2021-07-17T21:12:06+07:00",
+      "created_at": "2021-05-04T09:28:25+07:00",
+      "updated_at": "2021-07-17T21:12:06+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [
+        "Array"
+      ],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": null,
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "SiHemat Employee Privilege Promo",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/930950152357"
+    },
+    {
+      "id": 930097037477,
+      "value_type": "percentage",
+      "value": "-5.0",
+      "customer_selection": "all",
+      "target_type": "line_item",
+      "target_selection": "all",
+      "allocation_method": "across",
+      "allocation_limit": null,
+      "once_per_customer": false,
+      "usage_limit": null,
+      "starts_at": "2021-04-30T13:50:08+07:00",
+      "ends_at": null,
+      "created_at": "2021-04-30T13:55:54+07:00",
+      "updated_at": "2021-04-30T13:55:54+07:00",
+      "entitled_product_ids": [],
+      "entitled_variant_ids": [],
+      "entitled_collection_ids": [],
+      "entitled_country_ids": [],
+      "prerequisite_product_ids": [],
+      "prerequisite_variant_ids": [],
+      "prerequisite_collection_ids": [],
+      "prerequisite_saved_search_ids": [],
+      "prerequisite_customer_ids": [],
+      "prerequisite_subtotal_range": [
+        "Object"
+      ],
+      "prerequisite_quantity_range": null,
+      "prerequisite_shipping_price_range": null,
+      "prerequisite_to_entitlement_quantity_ratio": [
+        "Object"
+      ],
+      "prerequisite_to_entitlement_purchase": [
+        "Object"
+      ],
+      "title": "DI617357",
+      "admin_graphql_api_id": "gid://shopify/PriceRule/930097037477"
+    }
+  ]
+}
